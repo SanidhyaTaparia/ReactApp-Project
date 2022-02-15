@@ -2,4 +2,4 @@
 
 This is a TODO App made using ReactJs
 
-Check out the deployment at https://sanidhya-todo-app-youcant616-gmailcom.vercel.app/
+Check out the deployment at https://sanidhya-todo-app.vercel.app/
