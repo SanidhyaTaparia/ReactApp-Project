@@ -2,10 +2,10 @@ import React from 'react'
 import {TodoItem} from "./TodoItem"
 
 export const Todos = (props) => {
-    let myStyle = {
-        minHeight: "70vh",
-        margin: "40px auto"
-    }
+    // let myStyle = {
+    //     minHeight: "70vh",
+    //     margin: "40px auto"
+    // }
     return (
     <div className="container">
         {/* Here text-center className has come from Bootsrap css */}
